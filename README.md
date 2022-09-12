@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayush9001
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning JavaScript and Web Development.
+- 🌱 I’m currently learning Web Development.
 
 <!---
 ayush9001/ayush9001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
